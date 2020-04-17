@@ -5,6 +5,9 @@ Started: April 14, 2020
 
 # Log
 [Day 1](#day1)
+[Day 2](#day2)
+[Day 3](#day3)
+[Day 4](#day4)
 
 
 <a name="day1"></a>
@@ -19,7 +22,7 @@ Set Up Everything to suit my needs and gave Neumorphism a try with an input type
 ### Problems I had
 I am pretty much a noobie dealing with Github so setting up everything was quite challenging
 
-
+<a name="day2"></a>
 ## Day 2
 
 ### What did I do?
@@ -36,7 +39,7 @@ Tomorrow is going to be my first time coding Flutter.
 ### Problems I had
 None because I have just Started 
 
-
+<a name="day3"></a>
 ## Day 3
 
 ### What did I do?
@@ -59,7 +62,7 @@ Worked with:
 ### Problems I had
 None because i am still at the very beginning
 
-
+<a name="day4"></a>
 ## Day 4
 
 ### What did I do?
@@ -71,8 +74,3 @@ and practiced all the Widgets and Layouts I've learnd so far.
 
 ### Problems I had
 Sitting on a Problem for way to long just to notice that I was missing a backslash...
-
-
-
-
-
