@@ -4,7 +4,10 @@
 Started: April 14, 2020
 
 # Log
+[Day 1](#day1)
 
+
+<a name="day1"></a>
 ## Day 1
 
 ### What did I do?
