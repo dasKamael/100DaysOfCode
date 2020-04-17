@@ -3,4 +3,73 @@
 ## Info
 Started: April 14, 2020
 
-My daily Progress is documented in the folder of the respective day
+# Log
+
+## Day 1
+
+### What did I do?
+Set Up Everything to suit my needs and gave Neumorphism a try with an input type="file"
+
+### How long did it take?
+1 1/2 Hour
+
+### Problems I had
+I am pretty much a noobie dealing with Github so setting up everything was quite challenging
+
+
+## Day 2
+
+### What did I do?
+Changed my plan of learning Web development because I always wanted to build mobile apps. The Reason I chose going for WebDev was my previous knowledge of HTML CSS and Javascript I had left and the option to use React Native. But I found out
+about Flutter which has in my opinion a nice looking syntax and its ability to create Webpages (if I want to in the future and it's still in Beta). So I decided to go this way and learn it. 
+Today I startet an online Course (https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+
+So because I've just started the course there is no Code today. Just got in the Theory of Flutter and the possibilities that comes with the language and finaly prepared everything.
+Tomorrow is going to be my first time coding Flutter.
+
+### How long did it take?
+2 hour
+
+### Problems I had
+None because I have just Started 
+
+
+## Day 3
+
+### What did I do?
+So today I started using Flutter on my own just to strengthen my knowledge on the basics. As you can see in the code is not much but for my second day using Flutter I am quite impressed how
+fast you can build a 'working' app with it. 
+
+Worked with:
+-> Images
+-> Fonts
+-> Icons
+-> AppBar
+-> FloatingActionButton
+-> Button
+-> Container
+-> Rows and Columns
+
+### How long did it take?
+3 hours
+
+### Problems I had
+None because i am still at the very beginning
+
+
+## Day 4
+
+### What did I do?
+I've done the first little Project of the free Flutter course on Youtube by The Net Ninja (https://www.youtube.com/watch?v=p5dkB3Mrxdo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=16)
+and practiced all the Widgets and Layouts I've learnd so far.
+
+### How long did it take?
+1 1/2 Hour
+
+### Problems I had
+Sitting on a Problem for way to long just to notice that I was missing a backslash...
+
+
+
+
+
