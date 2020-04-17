@@ -67,7 +67,7 @@ None because i am still at the very beginning
 
 ### What did I do?
 I've done the first little Project of the free Flutter course on Youtube by The Net Ninja (https://www.youtube.com/watch?v=p5dkB3Mrxdo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=16)
-and practiced all the Widgets and Layouts I've learnd so far.
+and practiced all the Widgets and Layouts I've learned so far.
 
 ### How long did it take?
 1 1/2 Hour
