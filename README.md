@@ -8,6 +8,7 @@ Started: April 14, 2020
 [Day 2](#day2)</br>
 [Day 3](#day3)</br>
 [Day 4](#day4)</br>
+[Day 5](#day5)</br>
 
 
 <a name="day1"></a>
@@ -74,3 +75,15 @@ and practiced all the Widgets and Layouts I've learned so far.
 
 ### Problems I had
 Sitting on a Problem for way to long just to notice that I was missing a backslash...
+
+<a name="day5"></a>
+## Day 5
+
+### What did I do?
+Experimented with some new Widgets and learned the basics of the StafefulWidget to start manipulate the items
+
+### How long did it take?
+1 1/2 Hour
+
+### Problems I had
+Just had my App crashing a few times. Still no clue why but I think it had not enough memory
