@@ -4,11 +4,11 @@
 Started: April 14, 2020
 
 # Log
-[Day 1](#day1) [Day 6](#day6)</br>
-[Day 2](#day2)</br>
-[Day 3](#day3)</br>
-[Day 4](#day4)</br>
-[Day 5](#day5)</br>
+[Day 1](#day1) | [Day 6](#day6)</br>
+[Day 2](#day2) |</br>
+[Day 3](#day3) |</br>
+[Day 4](#day4) |</br>
+[Day 5](#day5) |</br>
 
 
 <a name="day1"></a>
