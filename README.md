@@ -4,7 +4,7 @@
 Started: April 14, 2020
 
 # Log
-[Day 1](#day1)</br>
+[Day 1](#day1)</br> [Day 6](#day6)</br>
 [Day 2](#day2)</br>
 [Day 3](#day3)</br>
 [Day 4](#day4)</br>
@@ -87,3 +87,15 @@ Experimented with some new Widgets and learned the basics of the StafefulWidget 
 
 ### Problems I had
 Just had my App crashing a few times. Still no clue why but I think it had not enough memory
+
+<a name="day6"></a>
+## Day 6
+
+### What did I do?
+Learned about extracting widgets, classes, Routing, Async/Await and Future
+
+### How long did it take?
+2 Hour
+
+### Problems I had
+None
