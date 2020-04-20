@@ -5,7 +5,7 @@ Started: April 14, 2020
 
 # Log
 [Day 1](#day1) | [Day 6](#day6)</br>
-[Day 2](#day2) |</br>
+[Day 2](#day2) | [Day 7](#day7)</br>
 [Day 3](#day3) |</br>
 [Day 4](#day4) |</br>
 [Day 5](#day5) |</br>
@@ -96,6 +96,23 @@ Learned about extracting widgets, classes, Routing, Async/Await and Future
 
 ### How long did it take?
 2 Hour
+
+### Problems I had
+None
+
+<a name="day7"></a>
+## Day 7
+
+### What did I do?
+Finishing the free course on Youtube by The Net Ninja which I can recommend for everyone getting started with flutter.
+-> getting data from an api
+-> played with async/await an Future
+-> passing data between different screens
+-> worked with intl package to parse the Date
+-> Planning a project where I can put my gained knowledge to the test
+
+### How long did it take?
+2
 
 ### Problems I had
 None
