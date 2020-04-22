@@ -7,7 +7,7 @@ Started: April 14, 2020
 [Day 1](#day1) | [Day 6](#day6)</br>
 [Day 2](#day2) | [Day 7](#day7)</br>
 [Day 3](#day3) | [Day 8](#day8)</br>
-[Day 4](#day4) |</br>
+[Day 4](#day4) | [Day 9](#day9)</br>
 [Day 5](#day5) |</br>
 
 
@@ -121,10 +121,22 @@ None
 ## Day 8
 
 ### What did I do?
-Building an Prototype of my App and build in some functionality. Tomorow I will
+Building an Prototype of my App and build in some functionality.
 
 ### How long did it take?
 1 1/2 Hour
 
 ### Problems I had
 Working with the NavigationBar Widget
+
+<a name="day9"></a>
+## Day 9
+
+### What did I do?
+Adding the functionality to add tasks with given color, name and days of the week
+
+### How long did it take?
+1 1/2 Hour
+
+### Problems I had
+Dealing with Radiobuttons
