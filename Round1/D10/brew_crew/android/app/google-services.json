@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096940898879",
+    "firebase_url": "https://daskamael-brew-crew.firebaseio.com",
+    "project_id": "daskamael-brew-crew",
+    "storage_bucket": "daskamael-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096940898879:android:0d976f9822a012bc92c68a",
+        "android_client_info": {
+          "package_name": "com.dasKamael.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096940898879-f0bhe44i7h80h1kfd3o89hkc4g187n7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5hCgY39jhRyG0HSd3B67w3s6aKH2xgu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096940898879-f0bhe44i7h80h1kfd3o89hkc4g187n7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
