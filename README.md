@@ -8,7 +8,7 @@ Started: April 14, 2020
 [Day 2](#day2) | [Day 7](#day7)</br>
 [Day 3](#day3) | [Day 8](#day8)</br>
 [Day 4](#day4) | [Day 9](#day9)</br>
-[Day 5](#day5) |</br>
+[Day 5](#day5) | [Day 10](#day10)</br>
 
 
 <a name="day1"></a>
@@ -140,3 +140,15 @@ Adding the functionality to add tasks with given color, name and days of the wee
 
 ### Problems I had
 Dealing with Radiobuttons
+
+<a name="day10"></a>
+## Day 10
+
+### What did I do?
+Started learning firebase authentication 
+
+### How long did it take?
+1 hour
+
+### Problems I had
+none
