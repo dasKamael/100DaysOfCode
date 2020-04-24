@@ -4,7 +4,7 @@
 Started: April 14, 2020
 
 # Log
-[Day 1](#day1) | [Day 6](#day6)</br>
+[Day 1](#day1) | [Day 6](#day6) | [Day 11](#day11)</br>
 [Day 2](#day2) | [Day 7](#day7)</br>
 [Day 3](#day3) | [Day 8](#day8)</br>
 [Day 4](#day4) | [Day 9](#day9)</br>
@@ -152,3 +152,15 @@ Started learning firebase authentication
 
 ### Problems I had
 none
+
+<a name="day11"></a>
+## Day 11
+
+### What did I do?
+Continued learning firebase authentication
+
+### How long did it take?
+1 1/2 Hour
+
+### Problems I had
+keep coding besides having work and University
