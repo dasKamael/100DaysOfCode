@@ -5,7 +5,7 @@ Started: April 14, 2020
 
 # Log
 [Day 1](#day1) | [Day 6](#day6) | [Day 11](#day11)</br>
-[Day 2](#day2) | [Day 7](#day7)</br>
+[Day 2](#day2) | [Day 7](#day7) | [Day 12](#day12)</br>
 [Day 3](#day3) | [Day 8](#day8)</br>
 [Day 4](#day4) | [Day 9](#day9)</br>
 [Day 5](#day5) | [Day 10](#day10)</br>
@@ -164,3 +164,16 @@ Continued learning firebase authentication
 
 ### Problems I had
 keep coding besides having work and University
+
+<a name="day12"></a>
+## Day 12
+
+### What did I do?
+Looked up some for me unknown widgets and experimented with it
+
+### How long did it take?
+About 1 hour
+
+### Problems I had
+None
+
