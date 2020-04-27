@@ -6,7 +6,7 @@ Started: April 14, 2020
 # Log
 [Day 1](#day1) | [Day 6](#day6)   | [Day 11](#day11)</br>
 [Day 2](#day2) | [Day 7](#day7)   | [Day 12](#day12)</br>
-[Day 3](#day3) | [Day 8](#day8)   |</br>
+[Day 3](#day3) | [Day 8](#day8)   | [Day 13](#day13)</br>
 [Day 4](#day4) | [Day 9](#day9)   |</br>
 [Day 5](#day5) | [Day 10](#day10)|</br>
 
@@ -173,6 +173,18 @@ Looked up some for me unknown widgets and experimented with it
 
 ### How long did it take?
 About 1 hour
+
+### Problems I had
+None
+
+<a name="day13"></a>
+## Day 3
+
+### What did I do?
+Copied a mobile design to improve my widget placing
+
+### How long did it take?
+1
 
 ### Problems I had
 None
